@@ -24,7 +24,6 @@ int main(){
     cin >> a;
 
     reverse(a);
-     
-
+    
 return 0;
 }
